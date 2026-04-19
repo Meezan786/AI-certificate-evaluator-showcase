@@ -218,11 +218,7 @@ streamlit run app.py
 
 ---
 
-## Documentation
 
-- `ARCHITECTURE.md` — Detailed system design and component code flow
-- `TASK_COMPLIANCE.md` — Requirements mapping to implementation
-- `TASK_FULFILLMENT.md` — Implementation evidence per feature
 
 ---
 
@@ -233,4 +229,3 @@ This repository serves as a **project showcase**. The core source code is propri
 ---
 
 *Built by Meezan Mulani — AI/ML Engineer*  
-*[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com)*
